@@ -5,8 +5,10 @@ Latihan1 <p>
 Buat program sederhana dengan input 2 buah bilangan, kemudian
 tentukan bilangan terbesar dari kedua bilangan tersebut
 menggunakan statement if. <P>
+
 ini adalah tampilan programnya <p>
 ![gambar1](Praktikum_Tiga/ss1.png)
+
 ini adalah tampilan hasil running <p>
 ![gambar](Praktikum_Tiga/ss2.png)
 
@@ -14,23 +16,29 @@ Latihan 2 <p>
 Buat program untuk mengurutkan data berdasarkan input sejumlah
 data (minimal 3 variable input atau lebih), kemudian tampilkan
 hasilnya secara berurutan mulai dari data terkecil. <p>
+
 ini adalah tampilan programnya <p>
 ![gambar](Praktikum_Tiga/ss3.png)
+
 ini adalah tampilan hasil running <p>
 ![gambar](Praktikum_Tiga/ss4.png)
 
 Latihan 1 <p>
 Buat program dengan perulangan bertingkat (nested) for. <p>
+
 Inilah tampilan programnya <p>
 ![gambar](Praktikum_Tiga/ss5.png)
+
 ini adalah tampilan setelah running <p>
 ![gambar](Praktikum_Tiga/ss6.png)
 
 Latihan 2 <p>
 Tampilkan n bilangan acak yang lebih kecil dari 0.5. <p>
 ini adalah tampilan programnya <p>
+
 ![gambar](Praktikum_Tiga/ss7.png)
 nilai n diisi pada saat runtime <p>
+
 ini adalah tampilan setelah nilai n diisi <p>
 ![gambar](Praktikum_Tiga/ss8.png)
 
@@ -46,8 +54,10 @@ ini adalah tampilan setelah nilai n diisi <p>
 FLOWCHART <p>
 Menentukan nilai terbesar dari tiga bilangan <p>
 ![gambar](Praktikum_Tiga/ss8a.png)
+
 ini adalah programnya <p>
 ![gambar](Praktikum_Tiga/ss9.png)
+
 ini adalah tampilan setelah run dan setelah nilai dimasukkan <p>
 ![gambar](Praktikum_Tiga/ss10.png)
 
@@ -56,6 +66,7 @@ Latihan 1 <p>
 Tampilkan n bilangan acak yang lebih kecil dari 0.5. <p>
 Ini programnya <p>
 ![gambar](Praktikum_Tiga/ss11.png)
+
 Ini hasil eksekusinya, stelah nilai n diinput. <p>
 ![gambar](Praktikum_Tiga/ss12.png)
 
@@ -64,6 +75,7 @@ Buat program untuk menampilkan bilangan terbesar dari n buah data yang diinputka
 Masukkan angka 0 untuk berhenti. <p>
 Ini programnya <p>
 ![gambar](Praktikum_Tiga/ss13.png)
+
 tampilan setelah program dieksekusi, input beberapa angka atau bilangan secara acak. <p>
 ![gambar](Praktikum_Tiga/ss14.png)
 
@@ -76,6 +88,7 @@ keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 
 bulan berjalan usahanya. <p>
 Program1.py <p>
 ![gambar](Praktikum_Tiga/ss15.png)
+
 Hasil eksekusi, total keuntungan yang diperoleh selama 8 bulan. <p>
 ![gambar](Praktikum_Tiga/ss16.png)
 
